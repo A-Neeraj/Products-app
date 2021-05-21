@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "743500993248",
+    "project_id": "ecommerce-734bd",
+    "storage_bucket": "ecommerce-734bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743500993248:android:cd994a115e243f0bbdb685",
+        "android_client_info": {
+          "package_name": "com.neeraj.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743500993248-d60s3l5gr4ahruvk9eungu2bf0cdgc1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdNjAL4fpWeJzYkR-1GAW3fTAS9GRgOiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743500993248-d60s3l5gr4ahruvk9eungu2bf0cdgc1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743500993248:android:d9d459075365b571bdb685",
+        "android_client_info": {
+          "package_name": "com.neeraj.products_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743500993248-srhbk8d7slf846p5ahj3hmr79pj8cjq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neeraj.products_task",
+            "certificate_hash": "89bfe82de728732a1c196c2a9ffccf961e2f3362"
+          }
+        },
+        {
+          "client_id": "743500993248-d60s3l5gr4ahruvk9eungu2bf0cdgc1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdNjAL4fpWeJzYkR-1GAW3fTAS9GRgOiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743500993248-d60s3l5gr4ahruvk9eungu2bf0cdgc1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743500993248:android:0fb99d8cd3d70afabdb685",
+        "android_client_info": {
+          "package_name": "com.neeraj.userecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743500993248-d60s3l5gr4ahruvk9eungu2bf0cdgc1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdNjAL4fpWeJzYkR-1GAW3fTAS9GRgOiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743500993248-d60s3l5gr4ahruvk9eungu2bf0cdgc1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
